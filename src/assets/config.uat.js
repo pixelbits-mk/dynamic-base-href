@@ -1,0 +1,1 @@
+window['__BASE_HREF__'] = '/uat/';
